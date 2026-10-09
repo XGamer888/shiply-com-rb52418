@@ -1,0 +1,47 @@
+{
+  "S33502": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Lukas Hensen, Stephanstraße 53, 94034 Passau, Germany",
+    "receiver": "Oleg Serpionov, Strada Nicolae Deleanu 24, 800402 Galați, Romania",
+    "price": "9.940 €",
+    "description": "Manufacturer: Honda<br>Model: CRF1100L Africa Twin DCT<br>Chassis number: JH2SD09CXKL000212<br>First registration: 05/2020<br>Mileage according to previous owner: 27.987 km<br>Power: 75 kW (102 PS)<br>Engine capacity: 1.084 cm³<br>Color: Black<br><br>The motorcycle is fully functional, no falls or accidents.<br>All papers and keys are included.<br>Top case and side cases included.",
+    "address": "Oleg Serpionov<br>Strada Bratislava 13<br>900002 Constanța<br>Romania<br>Telefon: +40 745251432",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "09.10.2026",
+    "deliveryDate": "15.10.2026",
+    "pickup": {
+      "street": "Karl-Mierka-Straße 7–9",
+      "postal_code": "3500",
+      "city": "Krems an der Donau",
+      "country": "Austria",
+      "lat": "48.40440613201911",
+      "lng": "15.639348926012708"
+    },
+    "delivery": {
+      "street": "Strada Bratislava 13",
+      "postal_code": "900002",
+      "city": "Constanța",
+      "country": "Romania",
+      "lat": "44.21832965574544",
+      "lng": "28.59433751047764"
+    }
+  }
+}
