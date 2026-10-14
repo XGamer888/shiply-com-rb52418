@@ -1,6 +1,6 @@
 {
   "RL481528024438": {
-    "status": "Waiting for payment",
+    "status": "Preparation for transport",
     "statusClass": "pending",
     "sender": "Lukas Hensen, Stephanstraße 53, 94034 Passau, Germany",
     "receiver": "Oleg Serpionov, Strada Nicolae Deleanu 24, 800402 Galați, Romania",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "09.10.2026",
-    "deliveryDate": "15.10.2026",
+    "deliveryDate": "19.10.2026 🕟 16:30 Uhr",
     "pickup": {
       "street": "Karl-Mierka-Straße 7–9",
       "postal_code": "3500",
