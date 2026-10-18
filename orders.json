@@ -1,6 +1,6 @@
 {
   "RL481528024438": {
-    "status": "Preparation for transport",
+    "status": "In Transit",
     "statusClass": "pending",
     "sender": "Lukas Hensen, Stephanstraße 53, 94034 Passau, Germany",
     "receiver": "Oleg Serpionov, Strada Nicolae Deleanu 24, 800402 Galați, Romania",
@@ -28,12 +28,12 @@
     "orderDate": "09.10.2026",
     "deliveryDate": "19.10.2026 🕟 16:30 Uhr",
     "pickup": {
-      "street": "Karl-Mierka-Straße 7–9",
-      "postal_code": "3500",
-      "city": "Krems an der Donau",
-      "country": "Austria",
-      "lat": "48.40440613201911",
-      "lng": "15.639348926012708"
+      "street": "Back Bernát utca 1",
+      "postal_code": "6791",
+      "city": "Szeged",
+      "country": "Ungarn",
+      "lat": "46.28438183336839",
+      "lng": "20.08847372591361"
     },
     "delivery": {
       "street": "6H9V+7MC",
