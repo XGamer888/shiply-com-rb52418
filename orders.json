@@ -28,12 +28,12 @@
     "orderDate": "09.10.2026",
     "deliveryDate": "19.10.2026 🕟 16:30 Uhr",
     "pickup": {
-      "street": "Back Bernát utca 1",
-      "postal_code": "6791",
-      "city": "Szeged",
-      "country": "Ungarn",
-      "lat": "46.28438183336839",
-      "lng": "20.08847372591361"
+      "street": "Strada Henri Coandă 12a",
+      "postal_code": "550234",
+      "city": "Sibiu",
+      "country": "Romania",
+      "lat": "45.79480100260312",
+      "lng": "24.180317654726892"
     },
     "delivery": {
       "street": "6H9V+7MC",
