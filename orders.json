@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "09.10.2026",
-    "deliveryDate": "20.10.2026 🕒 15:00 Uhr",
+    "deliveryDate": "20.10.2026 🕒 16:00 Uhr",
     "pickup": {
-      "street": "Strada Henri Coandă 12a",
-      "postal_code": "550234",
-      "city": "Sibiu",
+      "street": "Șoseaua Berceni 104",
+      "postal_code": "041919",
+      "city": "Bucharest",
       "country": "Romania",
-      "lat": "45.79480100260312",
-      "lng": "24.180317654726892"
+      "lat": "44.369246800217574",
+      "lng": "26.141431261888563"
     },
     "delivery": {
       "street": "6H9V+7MC",
