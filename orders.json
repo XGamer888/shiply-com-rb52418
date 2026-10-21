@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "09.10.2026",
-    "deliveryDate": "21.10.2026 🕙 10:00 Uhr",
+    "deliveryDate": "21.10.2026 🕟 16:30 Uhr",
     "pickup": {
-      "street": "Șoseaua Berceni 104",
+      "street": "DN39",
       "postal_code": "041919",
-      "city": "Bucharest",
+      "city": "Constanța",
       "country": "Romania",
-      "lat": "44.369246800217574",
-      "lng": "26.141431261888563"
+      "lat": "44.09053887690926",
+      "lng": "28.6483392"
     },
     "delivery": {
       "street": "6H9V+7MC",
